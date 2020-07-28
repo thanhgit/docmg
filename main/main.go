@@ -182,7 +182,6 @@ func connectHydra(context context.Context) {
 	client.Get("...")
 }
 
-
 func setupGlobalMiddleware(c *gin.Context) *gin.Context {
 	c.Writer.Header().Set("Content-Type", "application/json")
 	c.Writer.Header().Set("Access-Control-Allow-Origin", "*")
@@ -195,8 +194,11 @@ func setupGlobalMiddleware(c *gin.Context) *gin.Context {
 }
 
 func main()  {
-	connectDB()
+	//connectDB()
+	sitemap := db.GetSiteMap("main/db/project1.json")
+	//fmt.Printf("Sitemap: %v", *sitemap)
 
+	db.SaveSiteMap(*sitemap)
 }
 
 func main_temp() {

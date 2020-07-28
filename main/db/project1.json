@@ -1,0 +1,270 @@
+[
+    {"type":"directory","name":"/home/","contents":[
+        {"type":"directory","name":"phuocnguyen","contents":[
+            {"type":"directory","name":"Desktop","contents":[
+            ]},
+            {"type":"directory","name":"Documents","contents":[
+            ]},
+            {"type":"directory","name":"Downloads","contents":[
+            ]},
+            {"type":"file","name":"examples.desktop"},
+            {"type":"directory","name":"Music","contents":[
+            ]},
+            {"type":"directory","name":"Pictures","contents":[
+            ]},
+            {"type":"directory","name":"Public","contents":[
+            ]},
+            {"type":"directory","name":"Templates","contents":[
+            ]},
+            {"type":"directory","name":"Videos","contents":[
+            ]}
+        ]},
+        {"type":"directory","name":"thanhnp","contents":[
+            {"type":"directory","name":"anaconda3","contents":[
+                {"type":"file","name":"conda.exe"}
+            ]},
+            {"type":"file","name":"config"},
+            {"type":"directory","name":"cuda-workspace","contents":[
+            ]},
+            {"type":"directory","name":"Desktop","contents":[
+            ]},
+            {"type":"directory","name":"Documents","contents":[
+                {"type":"directory","name":"course","contents":[
+                ]},
+                {"type":"directory","name":"ebook","contents":[
+                ]},
+                {"type":"directory","name":"enlish","contents":[
+                ]},
+                {"type":"directory","name":"goproject","contents":[
+                ]},
+                {"type":"directory","name":"java-project","contents":[
+                ]},
+                {"type":"file","name":"jobs.txt"},
+                {"type":"file","name":"MANAGING TRANSACTION WITH SAGAS.docx"},
+                {"type":"directory","name":"node-project","contents":[
+                ]},
+                {"type":"directory","name":"note_tech","contents":[
+                ]},
+                {"type":"directory","name":"NVIDIA Nsight Systems","contents":[
+                ]},
+                {"type":"directory","name":"pipeline-example-go","contents":[
+                ]},
+                {"type":"directory","name":"react-material-admin","contents":[
+                ]},
+                {"type":"directory","name":"setup-Elastic-Stack","contents":[
+                ]}
+            ]},
+            {"type":"directory","name":"Downloads","contents":[
+                {"type":"file","name":"1000cumtuthongdungnhat.pdf"},
+                {"type":"file","name":"100 từ vựng TOEIC.pdf"},
+                {"type":"file","name":"APIConf_-_Engineering_like_a_Product_Manager__1_.pdf"},
+                {"type":"file","name":"AutoAnimation.rar"},
+                {"type":"file","name":"Bài học Luyện nghe tiếng Anh Cơ bản - Cải thiện Kỹ năng Nghe tiếng Anh của Bạn.mp4"},
+                {"type":"file","name":"book.pdf"},
+                {"type":"file","name":"Building Microservices with Go ( PDFDrive.com ).pdf"},
+                {"type":"file","name":"CV_NguyenPhucThanh_software_engineer.pdf"},
+                {"type":"file","name":"Domain-Driven Design Distilled ( PDFDrive.com ).pdf"},
+                {"type":"file","name":"Eway Tech Talk #2 Coding Guidelines.pdf"},
+                {"type":"file","name":"FreeCoursesOnline.Me-Linux-Academy-Certified-Jenkins-Engineer.torrent"},
+                {"type":"file","name":"freecourseweb-com-mastering-linux-security--step-by-step-practical-guide-zip.torrent"},
+                {"type":"file","name":"Getting Started with OAuth 2.0 by Ryan Boyd (z-lib.org).pdf"},
+                {"type":"file","name":"GitLab Cookbook.pdf"},
+                {"type":"file","name":"go-design-patterns-real-world-projects.pdf"},
+                {"type":"file","name":"Go Systems Programming. Master Linux and Unix system level programming with Go ( PDFDrive.com ).pdf"},
+                {"type":"directory","name":"Hands-on Full-Stack Web Development with GraphQL and React","contents":[
+                ]},
+                {"type":"file","name":"Hands-on Full-Stack Web Development with GraphQL and React.rar"},
+                {"type":"file","name":"highoutputtechmanagement.pdf"},
+                {"type":"file","name":"High Performance Browser Networking_ What every web developer should know about networking and web performance ( PDFDrive.com ).pdf"},
+                {"type":"file","name":"ICT-Digital Business-Shared.pdf"},
+                {"type":"file","name":"index.yaml"},
+                {"type":"file","name":"JSFoo_2018___Architecture_of_scalable_and_resilient_NodeJS_apps_with_GraphQL_and_event-driven_serverless.pdf"},
+                {"type":"directory","name":"Kỹ năng tư duy phản biện","contents":[
+                ]},
+                {"type":"file","name":"Kỹ năng tư duy phản biện-20200409T170434Z-001.zip"},
+                {"type":"file","name":"lap-trinh-an-toan-secure-programming-chia sẻ code.pdf"},
+                {"type":"file","name":"latencycontrolsupervisioninresiliencedesignpatterns.pdf"},
+                {"type":"directory","name":"Linux network","contents":[
+                ]},
+                {"type":"file","name":"local-autodevops.md"},
+                {"type":"file","name":"Mastering microservices with Java 9 _ build domain-driven microservice-based applications with Spring, Spring Cloud, and Angular ( PDFDrive.com ).pdf"},
+                {"type":"file","name":"microservicesfinal.pdf"},
+                {"type":"file","name":"Microservices Patterns_ With examples in Java ( PDFDrive.com ).pdf"},
+                {"type":"file","name":"OAuth 2.0 Cookbook by Nascimento, Adolfo Eloy (z-lib.org).pdf"},
+                {"type":"file","name":"Packt.Learn.Helm.pdf"},
+                {"type":"file","name":"[Packtpub.Com] Linux Security and Hardening, The Practical Security Guide - [FCO] TGx Exclusive.torrent"},
+                {"type":"file","name":"Practical Node.js, 2nd Edition.rar"},
+                {"type":"file","name":"Scalability Patterns ( PDFDrive.com ).pdf"},
+                {"type":"file","name":"Server-side design and implementation of a web-based streaming platform ( PDFDrive.com ).pdf"},
+                {"type":"file","name":"Software Defined Networking (SDN) - The Big Picture.rar"},
+                {"type":"file","name":"Springer Ebooks.pdf"},
+                {"type":"directory","name":"Tâm lý học thuyết phục","contents":[
+                ]},
+                {"type":"file","name":"Tâm lý học thuyết phục-20200409T101024Z-001.zip"},
+                {"type":"file","name":"techstartup.pdf"},
+                {"type":"file","name":"The Full Stack Developer_ Your Essential Guide to the Everyday Skills Expected of a Modern Full Stack Web Developer ( PDFDrive.com ).pdf"},
+                {"type":"directory","name":"thuyet trinh","contents":[
+                ]},
+                {"type":"file","name":"Udemy - Build your first Microservices application using Go and gRPC --_ [ FreeCourseWeb ].torrent"},
+                {"type":"file","name":"Udemy - Golang - How to design and build REST microservices in Go --_ [ FreeCourseWeb ].torrent"}
+            ]},
+            {"type":"file","name":"examples.desktop"},
+            {"type":"directory","name":"go","contents":[
+                {"type":"directory","name":"bin","contents":[
+                ]},
+                {"type":"directory","name":"pkg","contents":[
+                ]},
+                {"type":"directory","name":"src","contents":[
+                ]}
+            ]},
+            {"type":"directory","name":"Music","contents":[
+                {"type":"file","name":"avatar.png"},
+                {"type":"file","name":"ave-consul-eastcode-sessions.pdf"},
+                {"type":"file","name":"background.jpg"},
+                {"type":"file","name":"background.png"},
+                {"type":"file","name":"CodeOneInjection.pdf"},
+                {"type":"file","name":"Dependency_Injection_in_Go_white___1_.pdf"},
+                {"type":"file","name":"design-architecture.jpg"},
+                {"type":"file","name":"devopsinterviewqa.pdf"},
+                {"type":"file","name":"favicon.png"},
+                {"type":"file","name":"Go-in-Practice.pdf"},
+                {"type":"file","name":"How to Build an Enterprise Kubernetes Strategy, White Paper.pdf"},
+                {"type":"file","name":"huynh_loc_portfolio.pdf"},
+                {"type":"file","name":"images.jpeg"},
+                {"type":"directory","name":"jenkins","contents":[
+                ]},
+                {"type":"file","name":"kubernetes-pod-cheatsheet.png"},
+                {"type":"file","name":"linkedin_background.jpeg"},
+                {"type":"file","name":"machine-learning-co-ban-vu-huu-tiep.pdf"},
+                {"type":"file","name":"Microservices_best_practise_java.pdf"},
+                {"type":"file","name":"microservices_for_java_developers.pdf"},
+                {"type":"file","name":"module-architecture.png"},
+                {"type":"file","name":"node_js_in_practice.pdf"},
+                {"type":"file","name":"openslava spring consul.pdf"},
+                {"type":"file","name":"rajeshkumar-devops-cv.pdf"},
+                {"type":"file","name":"sample_chapter_v1.pdf"},
+                {"type":"file","name":"spring-mvc-architecture.png"},
+                {"type":"file","name":"tech_trends_report_2020.pdf"},
+                {"type":"file","name":"the concepts of kubernetes objects.jpg"},
+                {"type":"file","name":"tieu-ngao-giang-ho.jpg"},
+                {"type":"file","name":"Understanding_Dependency_Injection_in_Symfony.pdf"},
+                {"type":"file","name":"understanding-machine-learning-theory-algorithms.pdf"},
+                {"type":"file","name":"vo_hoang_cv.pdf"}
+            ]},
+            {"type":"directory","name":"Pictures","contents":[
+                {"type":"file","name":"Screenshot from 2020-04-02 11-56-07.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-02-50.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-04-15.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-06-19.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-08-25.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-23-54.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-23-58.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-25-56.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-29-22.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-29-43.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-32-57.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-35-21.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-37-59.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-38-21.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-39-05.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-41-36.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-41-50.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-42-00.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-44-38.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-46-48.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-47-00.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-47-48.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-49-54.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-49-57.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-50-09.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-50-58.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-51-35.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-52-42.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-53-50.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-55-26.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-56-01.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-57-52.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-58-51.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 12-59-30.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-02-55.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-08-56.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-09-10.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-12-02.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-13-59.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-14-24.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-16-35.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-16-52.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-17-14.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-17-19.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-17-23.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-17-56.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-18-36.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-19-59.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-21-50.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-23-25.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-23-37.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-23-48.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-24-56.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-26-05.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-26-13.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-26-35.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-26-48.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-27-37.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-29-10.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-30-53.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-31-07.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-31-11.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-31-14.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-33-01.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-34-01.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-34-32.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-34-49.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-34-57.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-38-18.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-39-29.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-40-00.png"},
+                {"type":"file","name":"Screenshot from 2020-04-02 13-42-15.png"},
+                {"type":"file","name":"Screenshot from 2020-04-15 09-08-18.png"},
+                {"type":"file","name":"Screenshot from 2020-04-15 14-26-32.png"},
+                {"type":"file","name":"Screenshot from 2020-04-22 16-29-11.png"},
+                {"type":"directory","name":"Wallpapers","contents":[
+                ]}
+            ]},
+            {"type":"directory","name":"Public","contents":[
+            ]},
+            {"type":"directory","name":"snap","contents":[
+                {"type":"directory","name":"gnome-system-monitor","contents":[
+                ]},
+                {"type":"directory","name":"helm3","contents":[
+                ]},
+                {"type":"directory","name":"k9s","contents":[
+                ]},
+                {"type":"directory","name":"kontena-lens","contents":[
+                ]},
+                {"type":"directory","name":"kubectl","contents":[
+                ]},
+                {"type":"directory","name":"vlc","contents":[
+                ]},
+                {"type":"directory","name":"wps-office","contents":[
+                ]}
+            ]},
+            {"type":"directory","name":"Templates","contents":[
+            ]},
+            {"type":"directory","name":"Videos","contents":[
+                {"type":"file","name":"artifactoryPlugin.png"},
+                {"type":"file","name":"createCredential.png"},
+                {"type":"file","name":"createDomain.png"},
+                {"type":"file","name":"githubPlugin.png"},
+                {"type":"file","name":"gitlabPlugin.png"},
+                {"type":"file","name":"pipelineScriptFromSCMSection.png"},
+                {"type":"file","name":"pipelineSection.png"},
+                {"type":"file","name":"seeResultCredential.png"},
+                {"type":"file","name":"seeResult.png"},
+                {"type":"file","name":"sonarqubePlugin.png"},
+                {"type":"directory","name":"Tiến sĩ Lê Thẩm Dương Chiến lược tài chính","contents":[
+                ]}
+            ]}
+        ]}
+    ]},
+    {"type":"report","directories":51,"files":163}
+]

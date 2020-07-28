@@ -17,7 +17,7 @@ func GetInstance() *gorm.DB {
 		} else {
 			println("Connect success to Mysql server")
 			instance = db
-			instance.AutoMigrate(&Document{}, &Document_user{}, &Event_log{}, &GroupUser{}, &User{}, &User_group{})
+			instance.AutoMigrate(&Document{}, &Document_user{}, &Event_log{}, &GroupUser{}, &User{}, &User_group{}, &Directory{}, &File{})
 		}
 
 	}
